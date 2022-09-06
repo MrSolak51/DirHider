@@ -1,0 +1,11 @@
+C:\Users\MrSolak\source\repos\DirHider\DirHider\obj\Debug\DirHider.csproj.AssemblyReference.cache
+C:\Users\MrSolak\source\repos\DirHider\DirHider\obj\Debug\DirHider.Form1.resources
+C:\Users\MrSolak\source\repos\DirHider\DirHider\obj\Debug\DirHider.Properties.Resources.resources
+C:\Users\MrSolak\source\repos\DirHider\DirHider\obj\Debug\DirHider.csproj.GenerateResource.cache
+C:\Users\MrSolak\source\repos\DirHider\DirHider\obj\Debug\DirHider.csproj.CoreCompileInputs.cache
+C:\Users\MrSolak\source\repos\DirHider\DirHider\bin\Debug\DirHider.exe.config
+C:\Users\MrSolak\source\repos\DirHider\DirHider\bin\Debug\DirHider.exe
+C:\Users\MrSolak\source\repos\DirHider\DirHider\bin\Debug\DirHider.pdb
+C:\Users\MrSolak\source\repos\DirHider\DirHider\obj\Debug\DirHider.exe
+C:\Users\MrSolak\source\repos\DirHider\DirHider\obj\Debug\DirHider.pdb
+C:\Users\MrSolak\source\repos\DirHider\DirHider\obj\Debug\DirHider.Form2.resources
